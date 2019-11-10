@@ -31,7 +31,6 @@ public class SpringJPADemoApplication implements CommandLineRunner {
 	private String test;
 
 	public static void main(String[] args) {
-
 		SpringApplication.run(SpringJPADemoApplication.class, args);
 	}
 
